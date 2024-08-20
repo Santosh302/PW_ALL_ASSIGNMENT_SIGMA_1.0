@@ -1,0 +1,13 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    background-image: url(../assets/pexels-maxyne-barcel-10402282\ 1.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;   
+}
+header {
+    display: flex;
+    justify-content: space-between;
+}
